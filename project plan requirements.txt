@@ -1,0 +1,10 @@
+project issues
+	proj type
+	process model
+	proj deliverables
+
+project cost estimation (FP and UCP)
+gantt chart
+Introduction to team member and skill set
+task and member assignment table
+tools and tech with reasoning
